@@ -1,7 +1,5 @@
 <script>
   import ScatterRatingGross from './ScatterRatingGross.svelte';
-  // Later, you can import other visualizations like:
-  // import ScatterClusters from './ScatterClusters.svelte';
 </script>
 
 <style>
